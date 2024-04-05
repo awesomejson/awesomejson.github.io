@@ -1,11 +1,4 @@
----
-layout: post
-title: 使用jekyll在Github上搭建博客
-description: 使用jekyll在Github上搭建博客
-keywords: jekyll, github
-category : jekyll
-tags : [github, jekyll]
----
+# Escalivada
 
 ## Intro
 
