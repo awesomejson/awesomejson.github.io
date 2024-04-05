@@ -1,5 +1,6 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-rushed-analytics
 relative_links:
   enabled: true
   collections: true
@@ -14,3 +15,7 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-tactile
+
+jekyll_analytics:
+  GoogleAnalytics4: # Add, if you want to track with Google Analytics 4
+    measurement_id: G-22W86KJ0MT #
