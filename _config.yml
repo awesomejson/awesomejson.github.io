@@ -12,6 +12,8 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  - head-custom-google-analytics.html
 
 theme: jekyll-theme-tactile
-google_analytics_id: G-22W86KJ0MT
+
+google_analytics: G-22W86KJ0MT
